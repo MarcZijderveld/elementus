@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\HRO\BinBucket\Projects\PlatformBoard\PlatformBoard\Assets\_Scripts\Interface\QuestionInterface.cs">
+    <Files>
+      <File FileName="..\..\..\HRO\BinBucket\Projects\PlatformBoard\PlatformBoard\Assets\_Scripts\Player\PlayerInput.cs" Line="18" Column="3" />
+      <File FileName="..\..\..\HRO\BinBucket\Projects\PlatformBoard\PlatformBoard\Assets\_Scripts\Interface\QuestionInterface.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

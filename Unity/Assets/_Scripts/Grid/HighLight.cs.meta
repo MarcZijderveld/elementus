@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 606fede62dcbe8f4490934dd95af9ca4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - defaultMaterial: {instanceID: 0}
+  - highlightMaterial: {fileID: 2100000, guid: e9659f55b6298f84a9d679641e45591b, type: 2}
+  - highlightMouseOver: {fileID: 2100000, guid: 7b87b9b40fc789c4cbc02a5261262bbc,
+      type: 2}
+  - child: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

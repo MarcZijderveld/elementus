@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d1491afea8e813541ba40791d10bd903
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - buttonNormal: {instanceID: 0}
+  - buttonHover: {instanceID: 0}
+  - zwartePlark: {instanceID: 0}
+  - audio: {fileID: 8300000, guid: 0363fe34e1cc735469c7ab6bde371fbf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
